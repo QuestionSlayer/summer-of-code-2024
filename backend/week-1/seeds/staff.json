@@ -1,0 +1,32 @@
+[
+    {
+        "Name": "John Doe",
+        "Email": "john.doe@example.com",
+        "Contact": "1234567890",
+        "Admin": true
+    },
+    {
+        "Name": "Jane Smith",
+        "Email": "jane.smith@example.com",
+        "Contact": "9876543210",
+        "Admin": false
+    },
+    {
+        "Name": "Michael Brown",
+        "Email": "michael.brown@example.com",
+        "Contact": "5551234567",
+        "Admin": true
+    },
+    {
+        "Name": "Emily Davis",
+        "Email": "emily.davis@example.com",
+        "Contact": "4449876543",
+        "Admin": false
+    },
+    {
+        "Name": "William Taylor",
+        "Email": "william.taylor@example.com",
+        "Contact": "3335678901",
+        "Admin": true
+    }
+]

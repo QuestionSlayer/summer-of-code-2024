@@ -1,0 +1,37 @@
+[
+    {
+        "Staff": 1,
+        "Customer": 3,
+        "SKU": "SKU001",
+        "Amount": 999.99,
+        "Category": "Electronics"
+    },
+    {
+        "Staff": 2,
+        "Customer": 1,
+        "SKU": "SKU002",
+        "Amount": 25.50,
+        "Category": "Accessories"
+    },
+    {
+        "Staff": 3,
+        "Customer": 2,
+        "SKU": "SKU003",
+        "Amount": 45.99,
+        "Category": "Hardware"
+    },
+    {
+        "Staff": 4,
+        "Customer": 5,
+        "SKU": "SKU004",
+        "Amount": 150.00,
+        "Category": "Electronics"
+    },
+    {
+        "Staff": 5,
+        "Customer": 4,
+        "SKU": "SKU005",
+        "Amount": 75.99,
+        "Category": "Storage"
+    }
+]
